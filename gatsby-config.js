@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Tailwind Serif`,
-    description: `Gatsby starter styled with Tailwind`,
-    author: `@windedge`
+    title: `BakulCode`,
+    description: `BakulCode merupakan layanan pembuatan dan pengembangan perangkat lunak pada platform website, desktop dan mobile dengan harga yang terjangkau sesuai dengan kebutuhan personal atau perusahaan.`,
+    author: `@tinwaninja`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
